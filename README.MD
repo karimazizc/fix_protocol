@@ -41,20 +41,6 @@ python server.py
 python client.py
 ```
 
-Or use the testing session provided by DTL's server
-
-1. using the default config.ini host and port:
-```config.ini
-[SERVER]
-host = localhost
-port = 5100
-```
-
-2. Run the client:
-```bash
-python client.py
-```
-
 The client will:
 1. Connect to the FIX server
 2. Send logon messge
