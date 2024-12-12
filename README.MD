@@ -46,7 +46,7 @@ Or use the testing session provided by DTL's server
 1. using the default config.ini host and port:
 ```config.ini
 [SERVER]
-host = fix.dytechlab.com
+host = localhost
 port = 5100
 ```
 
